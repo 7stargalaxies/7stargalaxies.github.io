@@ -1,4 +1,4 @@
-# 7stargalaxies.github.io
+# [7stargalaxies.github.io](https://7stargalaxies.github.io)
 A wiki for an upcoming game called "7 Star Galaxies".
 ___
 ## Social Links
