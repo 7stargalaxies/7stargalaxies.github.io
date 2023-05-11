@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto Light', sans-serif;
+    color:white;
+    background-color: black;
+}
+
+h1, h2, h3 {
+    text-decoration: underline;
+}
+
+a {
+    color: cyan;
+}
